@@ -1,0 +1,14 @@
+@import 'reset.css';
+@import 'variables.css';
+
+@import './components/header.css';
+@import './components/hero.css';
+@import './components/product-slider.css';
+@import './components/banner.css';
+@import './components/banner-alt.css';
+@import './components/contact.css';
+@import './components/newsletter.css';
+@import './components/about.css';
+@import './components/footer.css';
+
+@import 'responsive.css';

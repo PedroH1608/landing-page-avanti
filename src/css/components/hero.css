@@ -1,0 +1,41 @@
+.hero {
+    background-color: var(--hero-background);
+    height: 510px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 96px;
+}
+
+.hero img {
+    height: 200%;
+}
+
+.hero-sale {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 576px;
+    height: 225px;
+}
+
+.hero-sale h1 {
+    font-size: 100px;
+}
+
+.hero-sale h1 span {
+    font-weight: 300;
+}
+
+.hero-sale p {
+    font-size: 25px;
+    color: var(--secondary-color);
+    letter-spacing: 7px;
+    padding: 12px 0;
+}
+
+.hero-sale h2 {
+    font-size: 60px;
+    color: var(--secondary-color);
+}
